@@ -2,9 +2,7 @@ import csv
 
 ARCHIVO = "paises.csv"
 
-# =========================
-# CARGA Y GUARDADO DE DATOS
-# =========================
+# CARGA Y GUARDADO DE DATOS#
 
 def cargar_paises():
     paises = []

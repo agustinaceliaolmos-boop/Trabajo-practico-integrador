@@ -16,3 +16,8 @@ python main.py
 - Olmos, Agustina celia
 
 ## Video demostrativo
+https://youtu.be/jZY8ohEhL2g
+
+## Github
+https://github.com/agustinaceliaolmos-boop/Trabajo-practico-integrador.git
+
